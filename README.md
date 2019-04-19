@@ -8,6 +8,8 @@ Basic idea of the hotplate is slightly different from the standard tools like a 
 
 Something similar is the Reflow Skillet from SparkFun: https://www.sparkfun.com/tutorials/59. They tested several methods to solder SMD components to PCBs and it turns out that their Skillet is the best solution for makers with a small budget. Inspired by this, my first thoughts about this old flatiron I found in the garage were to build a similar hot plate thing for soldering. And it turns out that this is working like a charm.
 
+Concept of this is that the wemos d1 mini controls the solid state relay based on temperature informations from the thermocouple sensor, which I placed with some heat resistant kapton tape directly onto the iron. If you have a really fast iron than maybe you should use something like a PID controller. For me and my very sluggish iron a normal threshold based control is enough for now. I added my simple threshold code to this repository.
+
 It takes about 3 minutes for the whole soldering process, which is very fast, compared to some professional solutions like reflow ovens. Maximal temperature is something about 230-240 degrees.
 
 __Conclusion:__
