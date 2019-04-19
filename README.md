@@ -6,12 +6,12 @@
 
 Basic idea of the hotplate is slightly different from the standard tools like a reflow oven or soldering irons. The heat is supplied from the bottom of the PCB.
 
-Something similar is the Reflow Skillet from SparkFun: https://www.sparkfun.com/tutorials/59
-They tested several methods to solder SMD components to PCBs and it turns out that their Skillet is the best solution for makers with a small budget. Inspired by this, my first thoughts about this old flatiron which I found in the garage were to build a similar hot plate thing for soldering. And it turns out that this is working like a charm.
+Something similar is the Reflow Skillet from SparkFun: https://www.sparkfun.com/tutorials/59. They tested several methods to solder SMD components to PCBs and it turns out that their Skillet is the best solution for makers with a small budget. Inspired by this, my first thoughts about this old flatiron I found in the garage were to build a similar hot plate thing for soldering. And it turns out that this is working like a charm.
 
 It takes about 3 minutes for the whole soldering process, which is very fast, compared to some professional solutions like reflow ovens. Maximal temperature is something about 230-240 degrees.
 
 __Conclusion:__
+
 __Pro__
 - works like a charm
 - very low cost (I found all components at home)
@@ -37,5 +37,3 @@ For the PCB I desoldered the MAX6675 thermocouple IC from the small breakout boa
 <div>
 <img src="docs/pcb_eagle.png" height="400px" style="margin:5px">
 </div>
-
-The PCB is just a simple breakout board for the few parts which are needed to build this simple heat controller.
