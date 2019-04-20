@@ -1,6 +1,6 @@
 # Hotplate Soldering Iron
 
-<a href="https://www.instagram.com/p/BvreSTkI6Vh/?utm_source=ig_web_copy_link"><img src="docs/setup.png" width="500px"></a>
+<a href="https://www.instagram.com/p/BvreSTkI6Vh/?utm_source=ig_web_copy_link"><img src="docs/setup.png" width="400px"></a>
 
 (Click on the image for a small video.)
 
@@ -30,12 +30,12 @@ __Cons__
 For the PCB I desoldered the MAX6675 thermocouple IC from the small breakout board and used it directly onto the PCB to safe a little bit of space. All other components are just connected via pin headers to the PCB. The 5V power supply, the thermocouple and the solid state relay on GPIO 8 are connected via those screw terminals.
 
 <div>
-<img src="docs/schematics.png" height="400px" style="margin:5px">
+<img src="docs/schematics.png" height="200px" style="margin:5px">
 </div>
 
 
 ## Printed Circuit Board
 
 <div>
-<img src="docs/pcb_eagle.png" height="400px" style="margin:5px">
+<img src="docs/pcb_eagle.png" height="200px" style="margin:5px">
 </div>
