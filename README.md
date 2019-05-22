@@ -54,6 +54,10 @@ I have published two videos for creating the peace of wood used as base plate an
 <a href="https://www.instagram.com/p/BxP3jO4IJu6/?utm_source=ig_web_copy_link"><img src="docs/build2.png" width="400px"></a>
 
 
+When connecting the 230V power supply to your board be careful not to switch some wires, like I did :D
+
+The three terminals are labeled with __SSR__ for solid state relay, __DC5V__ for the Wemos power supply and __Thermo__ for the thermocouple sensor. When switching the thermocouple sensor wires, the temperature on the display will get smaller when the plate gets hot. If this is the case, simply switch the __Thermo__ wires.
+
 ## Schematics
 
 For the PCB I desoldered the MAX6675 thermocouple IC from the small breakout board and used it directly onto the PCB to safe a little bit of space. All other components are just connected via pin headers to the PCB. The 5V power supply, the thermocouple and the solid state relay on GPIO 8 are connected via those screw terminals.
