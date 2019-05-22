@@ -1,12 +1,18 @@
 # Hotplate Soldering Iron
 
+<a href="https://www.instagram.com/p/BxaNJOXoreG/?utm_source=ig_web_copy_link"><img src="docs/setup_new.png" width="400px"></a>
+
+(New version)
+
+
 <a href="https://www.instagram.com/p/BvreSTkI6Vh/?utm_source=ig_web_copy_link"><img src="docs/setup.png" width="400px"></a>
 
-(Click on the image for a small video.)
+(Old version)
+
+(Click on the images for a small video.)
 
 Basic idea of the hotplate is slightly different from the standard tools like a reflow oven or soldering irons. The heat is supplied from the bottom of the PCB.
 
-_Note:_ The picture (video) above is just my prototype, which is not equipped with the PCB at the bottom of this post, because it has not arrived yet. Same goes for the code, which is not prepared for the potentiometer yet.
 
 __What you will need:__
 
@@ -37,6 +43,15 @@ __Pro__
 __Cons__
 - works only for one side of a PCB
 - sluggish heat control of the iron (cool down takes several minutes). The PCB has to be removed after soldering process to cool down.
+
+
+## Build your own
+
+I have published two videos for creating the peace of wood used as base plate and for connecting the wires to the pcb. Just click on the images below to start the videos.
+
+<a href="https://www.instagram.com/p/BxKurz7IbGU/?utm_source=ig_web_copy_link"><img src="docs/build1.png" width="400px"></a>
+
+<a href="https://www.instagram.com/p/BxP3jO4IJu6/?utm_source=ig_web_copy_link"><img src="docs/build2.png" width="400px"></a>
 
 
 ## Schematics
