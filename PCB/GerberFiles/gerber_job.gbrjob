@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-04-20T11:58:04Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.3.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "iron"
+        },
+        "Owner": "Moritz Koenig <moritz.knig@googlemail.com>",
+        "Size": {
+            "X": 92.71,
+            "Y": 40.64
+        }
+    }
+}
