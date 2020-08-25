@@ -1,6 +1,6 @@
 # Hotplate Soldering Iron
 
-__For more informations to this project you can visit my website [makermoekoe.net](https://www.makermoekoe.net/post/maker-moekoe-s-kind-of-soldering-iron)__
+__For more informations to this project you can visit my website [makermoekoe.com](https://www.makermoekoe.com)__
 
 
 <a href="https://www.instagram.com/p/BxaNJOXoreG/?utm_source=ig_web_copy_link"><img src="docs/setup_new.png" width="400px"></a>
